@@ -1,3 +1,18 @@
+# Pralaya Ranjan Beura's Portfolio
+
+This is the portfolio project of Pralaya Ranjan Beura, showcasing skills, projects, and experience as a full-stack developer. The portfolio is built using Next.js, providing a modern and optimized platform to highlight technical expertise in various areas, including React.js, Node.js, Tailwind CSS, and more. The portfolio also integrates advanced UI components and custom animations to create an engaging user experience.
+
+## Key Features:
+
+- **Dynamic Content:** The portfolio is designed to showcase projects dynamically, with a focus on professional achievements and technical skills.
+- **Responsive Design:** The layout is fully responsive, ensuring a seamless experience across devices of all sizes.
+- **Advanced UI/UX:** Custom animations and a carefully chosen color palette make the portfolio visually appealing to recruiters and potential employers.
+- **Interactive Components:** The portfolio includes interactive elements such as a 3D globe visualization, swiper components, and sticky headers, enhancing user engagement.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -32,7 +32,7 @@ const Hero = () => {
       <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
         <h2 className="uppercase tracking-widest text-blue-100 text-lg text-center max-w-80">
           <img
-            src='./pralayaranjanbeura.png'
+            src='./ProfilePicture.png'
             className='bg-amber-400 rounded-full h-70 w-70 object-cover mx-auto'
             alt="Pralaya Ranjan Beura"
           />

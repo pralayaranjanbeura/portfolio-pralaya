@@ -76,7 +76,7 @@ export const navItems = [
       des: "HealthSync allows patients to securely book appointments, view available slots, and manage bookings, offering a performance-driven and user-friendly solution for healthcare providers.",
       img: "./HealthSync2.webp",
       iconLists: ["/re.svg","/node.svg","/express.svg","/mongo.svg", "/tail.svg","/fm.svg"],
-      link: "https://github.com/pralayaranjanbeura/health-sync",
+      link: "https://github.com/pralayaranjanbeura/HealthSync",
     },
     {
       id: 2,
